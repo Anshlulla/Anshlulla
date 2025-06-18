@@ -57,4 +57,4 @@
 
 ---
 
-_“Always building. Always evolving.”_
+_Always building. Always evolving._
