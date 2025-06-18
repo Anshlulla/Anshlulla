@@ -40,15 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshLulla&show_icons=true&theme=github_dark&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshLulla&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
